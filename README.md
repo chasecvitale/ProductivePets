@@ -9,8 +9,8 @@ Project ideas:
 5. If a pet is hungry for too long, it will continuously take damage over a time period.
 6. If a pet loses all of its health, it will die, and the user will have to restart with a new pet.
 7. Potentially include mini games inside of the project that supplement the caretaker aspect:
-   a. Taking the pet for a walk.
-   b. Grooming the pet.
+   - Taking the pet for a walk.
+   - Grooming the pet.
 
 Different branches of the project:
 1. Widgets on MacOS homescreen.
